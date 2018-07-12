@@ -1,0 +1,10 @@
+Hello Sir/Mam, 
+
+Please import/run complete SQL file in database. 
+Do not leave any single line otherwise we can miss applied or altered 
+keys on columns 
+and we also can 
+miss the inserted data for testing,
+
+ 
+Thank You. :-D
